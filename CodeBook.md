@@ -1,4 +1,4 @@
-Cookbook
+CookBook
 =============================
 
 tidyData.txt
